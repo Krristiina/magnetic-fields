@@ -1,5 +1,6 @@
 import json
 
+# http://www.gingersoftware.com/content/grammar-rules/adjectives/lists-of-adjectives/
 #This function is used to write input to a file (input to be given in JSON format)
 def writeToFile(input):
     file = open('../resources/wordsTagged.json', 'w')
@@ -41,7 +42,7 @@ def arrayToJson(arrays):
             if array[0] not in array[array.index(item)]:
                 text = array[array.index(item)]
                 tag = array[0].lower()
-                data.append({'name': text, 'tag': tag})
+                data.append({'word': text, 'tag': tag})
 
     json_data = json.dumps(data)
     writeToFile(json_data)
