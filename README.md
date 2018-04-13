@@ -12,9 +12,9 @@ This project is dedicated to generating some quality fridge poetry with amazing 
 
 ## Authors
 
-* Pain Harold
+* One Troubled Bird
 
-![Pain Harold cheering](https://thumbs.dreamstime.com/b/happy-old-man-sitting-sofa-laptop-27720792.jpg)
+![RiskyBird](https://i.imgur.com/KEwAFGg.jpg)
 
 
 ## Acknowledgements
