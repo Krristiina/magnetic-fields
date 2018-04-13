@@ -12,8 +12,6 @@ This project is dedicated to generating some quality fridge poetry with amazing 
 
 ## Authors
 
-* HömöT & HömöE
-
 ![RiskyBird](https://i.imgur.com/KEwAFGg.jpg)
 
 
