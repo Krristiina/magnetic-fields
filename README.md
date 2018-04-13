@@ -12,7 +12,7 @@ This project is dedicated to generating some quality fridge poetry with amazing 
 
 ## Authors
 
-* One Troubled Bird
+* HömöT & HömöE
 
 ![RiskyBird](https://i.imgur.com/KEwAFGg.jpg)
 
