@@ -82,7 +82,7 @@ te
 toinen
 usea
 
-PÄÄTTEITÄ JA TAVUJA
+PÄÄTTEET&TAVUT
 a
 e
 en
