@@ -16,13 +16,13 @@ def dataToCategorizedArrays():
     with open('../resources/sanoja.txt') as words:
         all = [line.strip() for line in words]
 
-    adjIndeksi = all.index("ADJEKTIIVEJA")
-    subIndeksi = all.index("SUBSTANTIIVEJA")
-    verbIndeksi = all.index("VERBEJÄ")
-    pronIndeksi = all.index("PRONOMINEJA")
-    paateIndeksi = all.index("PÄÄTTEET&TAVUT")
-    partIndeksi = all.index("PARTIKKELEJA")
-    merkkiIndeksi = all.index("VÄLIMERKKEJÄ")
+    adjIndeksi = all.index("ADJEKTIIVI")
+    subIndeksi = all.index("SUBSTANTIIVI")
+    verbIndeksi = all.index("VERBI")
+    pronIndeksi = all.index("PRONOMINI")
+    paateIndeksi = all.index("PÄÄTE")
+    partIndeksi = all.index("PARTIKKELI")
+    merkkiIndeksi = all.index("VÄLIMERKKI")
 
 
     adjektiivit = all[adjIndeksi:subIndeksi]
@@ -50,9 +50,9 @@ def arrayToJson(arrays):
             if array[0] not in array[array.index(item)]:
                 text = array[array.index(item)]
                 tag = array[0].lower()
-                data.append({'word': text, 'tag': tag})
+                data.append({'item': text, 'tag': tag})
 
-    json_data = json.dumps(data)
+    json_data = json.dumps(data, indent=4, sort_keys=True)
     writeToFile(json_data)
 
 

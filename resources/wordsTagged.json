@@ -1,1 +1,234 @@
-[{"tag": "adjectives", "word": "beautiful"}, {"tag": "adjectives", "word": "ugly"}, {"tag": "adjectives", "word": "psychotic"}, {"tag": "adjectives", "word": "evil"}, {"tag": "adjectives", "word": "unstable"}, {"tag": "adjectives", "word": "manic"}, {"tag": "nouns", "word": "Satan"}, {"tag": "nouns", "word": "Jesus"}, {"tag": "nouns", "word": "devil"}, {"tag": "nouns", "word": "girl"}, {"tag": "nouns", "word": "boy"}, {"tag": "nouns", "word": "bird"}, {"tag": "nouns", "word": "spring"}, {"tag": "nouns", "word": "summer"}, {"tag": "nouns", "word": "autumn"}, {"tag": "nouns", "word": "winter"}, {"tag": "verbs", "word": "play"}, {"tag": "verbs", "word": "drink"}, {"tag": "verbs", "word": "cry"}, {"tag": "verbs", "word": "laugh"}, {"tag": "verbs", "word": "die"}, {"tag": "verbs", "word": "live"}, {"tag": "verbs", "word": "eat"}, {"tag": "verbs", "word": "drive"}, {"tag": "verbs", "word": "flirt"}, {"tag": "verbs", "word": "love"}, {"tag": "verbs", "word": "hate"}, {"tag": "verbs", "word": "scream"}, {"tag": "verbs", "word": "understand"}, {"tag": "verbs", "word": "curse"}, {"tag": "affixes", "word": "s"}, {"tag": "affixes", "word": "er"}, {"tag": "affixes", "word": "ing"}, {"tag": "affixes", "word": "ed"}, {"tag": "affixes", "word": "d"}, {"tag": "affixes", "word": "est"}, {"tag": "adpositions", "word": "with"}, {"tag": "adpositions", "word": "for"}, {"tag": "adpositions", "word": "until"}, {"tag": "adpositions", "word": "throughout"}, {"tag": "adpositions", "word": "for"}, {"tag": "adpositions", "word": "from"}, {"tag": "adpositions", "word": "to"}, {"tag": "adpositions", "word": "in"}, {"tag": "adpositions", "word": "on"}, {"tag": "adpositions", "word": "via"}, {"tag": "adpositions", "word": "since"}]
+[
+    {
+        "tag": "adjectives", 
+        "word": "beautiful"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "ugly"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "psychotic"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "evil"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "unstable"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "manic"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "accidental"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "mediocre"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "creepy"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "confused"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "chubby"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "delightful"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "demonic"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "delirious"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "dependent"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "depressed"
+    }, 
+    {
+        "tag": "adjectives", 
+        "word": "deranged"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "Satan"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "Jesus"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "devil"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "girl"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "boy"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "bird"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "spring"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "summer"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "autumn"
+    }, 
+    {
+        "tag": "nouns", 
+        "word": "winter"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "play"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "drink"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "cry"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "laugh"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "die"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "live"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "eat"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "drive"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "flirt"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "love"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "hate"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "scream"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "understand"
+    }, 
+    {
+        "tag": "verbs", 
+        "word": "curse"
+    }, 
+    {
+        "tag": "affixes", 
+        "word": "s"
+    }, 
+    {
+        "tag": "affixes", 
+        "word": "er"
+    }, 
+    {
+        "tag": "affixes", 
+        "word": "ing"
+    }, 
+    {
+        "tag": "affixes", 
+        "word": "ed"
+    }, 
+    {
+        "tag": "affixes", 
+        "word": "d"
+    }, 
+    {
+        "tag": "affixes", 
+        "word": "est"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "with"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "for"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "until"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "throughout"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "for"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "from"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "to"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "in"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "on"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "via"
+    }, 
+    {
+        "tag": "adpositions", 
+        "word": "since"
+    }
+]

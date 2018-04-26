@@ -44,7 +44,7 @@ def arrayToJson(arrays):
                 tag = array[0].lower()
                 data.append({'word': text, 'tag': tag})
 
-    json_data = json.dumps(data)
+    json_data = json.dumps(data, indent=4, sort_keys=True)
     writeToFile(json_data)
 
 
